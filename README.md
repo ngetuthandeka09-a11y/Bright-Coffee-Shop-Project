@@ -13,16 +13,16 @@ Provide actionable business recommendations
 
 
 🛠️ **Tools & Technologies**
-Databricks (SQL) – Data extraction, cleaning, and analysis
-Excel Dashboard – Data visualization and reporting
-Canva – Presentation design
-Miro – Data flow diagram and process mapping
-Gantt Chart Tool – Project planning and timeline tracking
+-Databricks (SQL) – Data extraction, cleaning and analysis
+-Excel Dashboard – Data visualization and reporting
+-Canva – Presentation design
+-Miro – Data flow diagram and process mapping
+-Gantt Chart Tool – Project planning and timeline tracking
 
 
 🔄 **Project Process**
 1. Data Preparation
-Cleaned and structured raw sales data using SQL in Databricks
+-Cleaned and structured raw sales data using SQL in Databricks
 
 3. Data Analysis
 Analyzed:
@@ -32,14 +32,14 @@ Analyzed:
 -Product category performance
 
 5. Data Visualization
-Built an interactive Excel dashboard
-Created charts to highlight key trends
+-Built an interactive Excel dashboard
+-Created charts to highlight key trends
 
 7. Data Flow Design
 Mapped the full data process in Miro (from source to insights)
 
 9. Presentation
-Designed a professional presentation in Canva
+-Designed a professional presentation in Canva
 📊 Key Insights
 🔥 Peak Sales: Late morning drives the highest revenue
 📉 Slow Period: Late evening has the lowest activity
